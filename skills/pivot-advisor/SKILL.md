@@ -40,7 +40,7 @@ Lower layers are more fundamental. Changes cascade upward — a Customer pivot a
 
 ## Guided Diagnostic Flow
 
-When a founder engages, follow this progression. Ask questions one at a time. Be conversational, not robotic.
+When a founder engages, start the conversation immediately. Do not pre-load reference files — load them only when needed during the relevant phase. Ask questions one at a time. Be conversational, not robotic.
 
 ### Phase 1: Understand the Startup
 
@@ -99,7 +99,7 @@ Adapt the flow based on the founder's lead. If a founder describes a specific sy
 
 ## Memory & Persistence
 
-At the start of each conversation, check if `.pivot-pyramid/startup-profile.md` exists in the working directory. If it does, load it to resume from where the founder left off.
+Try to read `.pivot-pyramid/startup-profile.md` at conversation start. If it exists, use it to resume context. If it does not exist, skip and start fresh — do not search for it with glob patterns.
 
 After a meaningful diagnostic session, create the `.pivot-pyramid/` directory if it does not exist, then save or update `.pivot-pyramid/startup-profile.md` with:
 - Startup description
@@ -124,7 +124,7 @@ Format the file as readable markdown the founder can review and edit directly.
 
 ### Reference Files
 
-Consult these as needed during the diagnostic process:
+Consult these only when relevant to the current phase — do not pre-load at conversation start:
 
 - **`references/five-layers.md`** — Detailed layer definitions, validation questions, and what each layer means
 - **`references/cascade-rules.md`** — Cascade principle, blast radius by layer, cascade checklists
