@@ -36,6 +36,16 @@ The Pivot Pyramid breaks every startup into five layers:
 
 ## Install
 
+### Via npx (recommended)
+
+Works with Claude Code, Cursor, Windsurf, and [18+ other agents](https://github.com/vercel-labs/skills):
+
+```bash
+npx skills add Selcukatli/pivotpyramid-plugin
+```
+
+### Via Claude Code plugin marketplace
+
 **Step 1:** Add the marketplace:
 ```
 /plugin marketplace add Selcukatli/pivotpyramid-plugin
@@ -46,7 +56,8 @@ The Pivot Pyramid breaks every startup into five layers:
 /plugin install pivot-pyramid@pivotpyramid-plugin
 ```
 
-Or test locally without installing:
+### Local testing
+
 ```bash
 claude --plugin-dir /path/to/pivotpyramid-plugin
 ```
