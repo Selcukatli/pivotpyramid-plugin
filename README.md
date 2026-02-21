@@ -36,8 +36,19 @@ The Pivot Pyramid breaks every startup into five layers:
 
 ## Install
 
+**Step 1:** Add the marketplace:
+```
+/plugin marketplace add Selcukatli/pivotpyramid-plugin
+```
+
+**Step 2:** Install the plugin:
+```
+/plugin install pivot-pyramid@pivotpyramid-plugin
+```
+
+Or test locally without installing:
 ```bash
-claude install-plugin github:Selcukatli/pivotpyramid-plugin
+claude --plugin-dir /path/to/pivotpyramid-plugin
 ```
 
 ## Usage

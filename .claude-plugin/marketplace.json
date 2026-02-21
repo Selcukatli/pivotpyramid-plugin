@@ -1,0 +1,12 @@
+{
+  "name": "pivotpyramid-plugin",
+  "description": "Pivot Pyramid framework - AI-powered startup pivot advisor for founders",
+  "plugins": [
+    {
+      "name": "pivot-pyramid",
+      "path": "./",
+      "description": "Turns Claude into a startup pivot advisor using the Pivot Pyramid framework — a strategic framework for knowing what to change, when to change it, and how to execute without destroying what works.",
+      "version": "1.0.0"
+    }
+  ]
+}
