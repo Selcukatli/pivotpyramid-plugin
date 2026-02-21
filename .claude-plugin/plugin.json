@@ -1,0 +1,12 @@
+{
+  "name": "pivot-pyramid",
+  "version": "1.0.0",
+  "description": "Pivot Pyramid framework - AI-powered startup pivot advisor for founders",
+  "author": {
+    "name": "Selçuk Atlı",
+    "url": "https://pivotpyramid.com"
+  },
+  "repository": "https://github.com/nicatli/pivot-pyramid",
+  "license": "MIT",
+  "keywords": ["startup", "pivot", "strategy", "founder", "product-market-fit"]
+}
