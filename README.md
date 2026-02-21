@@ -1,6 +1,8 @@
-# Pivot Pyramid Plugin for Claude Code
+# Pivot Pyramid AI Skill
 
-A Claude Code plugin that turns Claude into a startup pivot advisor using the **Pivot Pyramid framework** — a strategic framework for knowing what to change, when to change it, and how to execute without destroying what works.
+An agent skill that turns your AI coding agent into a startup pivot advisor using the **Pivot Pyramid framework** — a strategic framework for knowing what to change, when to change it, and how to execute without destroying what works.
+
+Works with **Claude Code, Codex, Cursor, Windsurf**, and [18+ other agents](https://github.com/vercel-labs/skills).
 
 Created by [Selcuk Atli](https://selcukatli.com) (YC W14, 500 Startups Venture Partner).
 
@@ -38,7 +40,7 @@ The Pivot Pyramid breaks every startup into five layers:
 
 ### Via npx (recommended)
 
-Works with Claude Code, Cursor, Windsurf, and [18+ other agents](https://github.com/vercel-labs/skills):
+Works with Claude Code, Codex, Cursor, Windsurf, and [18+ other agents](https://github.com/vercel-labs/skills):
 
 ```bash
 npx skills add Selcukatli/pivotpyramid-plugin
