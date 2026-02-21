@@ -71,11 +71,22 @@ skills/pivot-advisor/
 
 ~10,000 words of framework knowledge with progressive disclosure — the core skill stays lean, detailed references load only when relevant.
 
-## Based On
+## The Book
 
-*[The Pivot Pyramid: A Founder's Complete Guide to Strategic Startup Experimentation](https://pivotpyramid.com)* by Selcuk Atli.
+This plugin is based on **[The Pivot Pyramid: A Founder's Complete Guide to Strategic Startup Experimentation](https://pivotpyramid.com)** by [Selcuk Atli](https://selcukatli.com).
 
-The book covers the full framework across 14 chapters: diagnosis, execution playbooks for each pivot type, multi-layer pivots, building pivot-ready culture, and a complete toolkit with templates and case studies.
+The book is the complete guide to the framework — 14 chapters covering diagnosis, execution playbooks for each pivot type, multi-layer pivots, building pivot-ready culture, and a full toolkit with templates and case studies. It includes 20+ real-world pivot breakdowns from companies like Slack, Instagram, Netflix, Dropbox, Shopify, and YouTube.
+
+**[Get the book at pivotpyramid.com](https://pivotpyramid.com)**
+
+## About the Author
+
+**Selcuk Atli** is a serial entrepreneur, investor, and startup advisor who has raised over $50M in venture capital across four companies, completed multiple exits, and been granted five U.S. patents. He is the co-founder and CEO of Bunch (10M+ players, $28M raised from General Catalyst and EA), and previously founded Manifest (acquired by Rakuten) and Boostable (YC W14, acquired by Metric Collective). As a Y Combinator alum, Fulbright Scholar, Endeavor Entrepreneur, and Venture Partner at 500 Startups, he developed the Pivot Pyramid framework after seeing hundreds of pivots from both sides of the table.
+
+- Website: [selcukatli.com](https://selcukatli.com)
+- Framework: [pivotpyramid.com](https://pivotpyramid.com)
+- Twitter: [@selcukatli](https://twitter.com/selcukatli)
+- LinkedIn: [linkedin.com/in/selcukatli](https://linkedin.com/in/selcukatli)
 
 ## License
 
